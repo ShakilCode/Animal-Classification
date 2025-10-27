@@ -24,7 +24,7 @@ It allows users to upload an animal image, and the system predicts the type of a
 
 ---
 
-## 📂 Dataset - [https://drive.google.com/file/d/1wZOM33axbJXFz-cXkCBxUg_60pL2mOVK/view?usp=drive_link]
+## 📂 Dataset - [https://drive.google.com/drive/folders/1PFyRb5kN3Z2iLMGiv05mTDEUkmB-WMUe?usp=sharing]
 
 ---
 

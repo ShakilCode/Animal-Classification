@@ -29,11 +29,10 @@ It allows users to upload an animal image, and the system predicts the type of a
 ---
 
 ## 📈 Model Performance
-• Training Accuracy: 89%
-• Validation Accuracy: 78%
+- Training Accuracy: 89%
+- Validation Accuracy: 78%
 
 ## 🧩 Future Improvements
 
-• Add more animal classes
-• Add more images to all of the classes
-f
+- Add more animal classes
+- Add more images to all of the classes
